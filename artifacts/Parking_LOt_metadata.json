@@ -1,0 +1,44 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Parking_Lot.sol": "Parking_LOt"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Parking_Lot.sol": {
+			"keccak256": "0x5807dfac6e8bb93841066565d5d0fe283bb8e4121dc36bc3be3f54a14fe041d3",
+			"urls": [
+				"bzz-raw://8b3b28c83d9ff6ab4ac96e231587bbbb5e540e55348c301c71aebc6677b0962a",
+				"dweb:/ipfs/QmdCfL7Phm2MY7eRjwht1VPGFztunePsyNr9avzqAYnCth"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.24+commit.e11b9ed9"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "calling",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "_second",
+						"type": "address"
+					}
+				],
+				"name": "setAddress",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"MultipleContracts.sol": "MultipleContracts"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"MultipleContracts.sol": {
+			"keccak256": "0x3ab26699fdc38524e8820f3794cc97c8919aeb477afab6a52f9685ada58f6ac1",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://c0a480dbacf41fe089fb25c358767c40a24c2c3f9e3d041faf3ad09daa495715",
+				"dweb:/ipfs/QmYiKctBCvGEPHAY6GuV6RJKKDgRA6g2UdRKwnEoN1V6ZM"
+			]
+		}
+	},
+	"version": 1
+}

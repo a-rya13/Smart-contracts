@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.28+commit.7893614a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "names",
+						"type": "string"
+					}
+				],
+				"name": "addNames",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Storagetype.sol": "Storagetype"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Storagetype.sol": {
+			"keccak256": "0x774d2d3e8e649bfede47e8b6235cd666473862b24c58478799e7f253a8abc58f",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://25eacb771e0445c8a46a2a19c2198a9551e7764dd8d26b28d3bea00ae3b1574b",
+				"dweb:/ipfs/QmXs4toymmpsFnrJHH849dvwQ6rYYA1BEee2yaYCMWngy1"
+			]
+		}
+	},
+	"version": 1
+}

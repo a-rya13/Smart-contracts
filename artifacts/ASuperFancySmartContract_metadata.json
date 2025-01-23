@@ -1,0 +1,71 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "doesSuperFancyStuff",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "owner",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Factory.sol": "ASuperFancySmartContract"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Factory.sol": {
+			"keccak256": "0xfea227b1c9cd28f623643a6bc330fc627b20fc815643b01788d50c40aad117b2",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://3ff7290a36cf75e91c8733461b20c01a99aa802321833ca74fda3a6799d9aef4",
+				"dweb:/ipfs/QmcWj7A5YUbLTZHMCnMAiKSNnkj8szZ4LjPKSv7g3r2thU"
+			]
+		}
+	},
+	"version": 1
+}
