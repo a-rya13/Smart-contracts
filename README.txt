@@ -1,9 +1,15 @@
+These are some codes from which I learnt, all the basics of smart contracts(solidity). Anyone can reference these codes; their file names represent the inside matter and code.
+Also made the lottery system with 3 participants, one can make more. Interact it with frontend using Js or React.
+
+
+
+
 REMIX DEFAULT WORKSPACE
 
 Remix default workspace is present when:
 i. Remix loads for the very first time 
-ii. A new workspace is created with 'Default' template
-iii. There are no files existing in the File Explorer
+ii. A new workspace is created with a 'Default' template
+iii. no files exist in the File Explorer
 
 This workspace contains 3 directories:
 
